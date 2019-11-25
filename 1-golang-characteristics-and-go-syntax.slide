@@ -1,0 +1,67 @@
+Welcome To Golang and Let's GO
+GO Tutorial - Golang characteristics and Go Syntax
+01:12 1 Dec 2019
+
+[[https://www.milovantomasevic.com][Milovan Tomašević]]
+[[https://www.milovantomasevic.com/courses/#table-of-contents][Go Tutorial]]
+
+
+* Let's Go!
+
+- go hello
+- calling functions
+- hello math
+- printing emoji in go
+- type of values
+- types in go
+
+.image golang-lets-go/assets/go_jumping.gif
+
+
+* go hello
+
+.play golang-lets-go/1-golang-characteristics-and-Go-Syntax/1-go-hello.go
+
+	go run hello.go
+
+.image golang-lets-go/assets/baby.gif
+
+
+* calling functions
+
+.play golang-lets-go/1-golang-characteristics-and-Go-Syntax/2-calling-functions.go
+
+.image golang-lets-go/assets/golang-prints.jpg
+
+
+* hello math
+
+.play golang-lets-go/1-golang-characteristics-and-Go-Syntax/3-hello-math.go
+
+.image golang-lets-go/assets/Gomat.png
+
+
+* printing emoji in go
+
+.play golang-lets-go/1-golang-characteristics-and-Go-Syntax/4-printing-emoji-in-go.go
+
+.image golang-lets-go/assets/emoji.jpeg
+
+
+* type of values
+
+.play golang-lets-go/1-golang-characteristics-and-Go-Syntax/5-type-of-values.go
+
+.image golang-lets-go/assets/goo.png
+
+
+* types in go
+
+.play golang-lets-go/1-golang-characteristics-and-Go-Syntax/6-types-in-go.go
+
+.image golang-lets-go/assets/go-programming.png
+
+
+* Thanks! Q&A?
+
+.image golang-lets-go/assets/mascot.gif
