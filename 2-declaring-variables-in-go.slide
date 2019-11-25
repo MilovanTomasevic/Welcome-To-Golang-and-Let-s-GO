@@ -23,110 +23,58 @@ GO Tutorial - Declaring Variables in Go
 
 * type variable
 
-.play golang-lets-go/2-declaring-variables-in-go/1-type-variable.go
+.play golang-lets-go/2-declaring-variables-in-go/1-type-variable.go /^func main/,/^}/
 
-	go run program.go
-
-.image golang-lets-go/assets/baby.gif
+.image golang-lets-go/assets/goeyes.png
 
 
 * multiple variables
 
-.play golang-lets-go/2-declaring-variables-in-go/2-multiple-variables.go
+.play golang-lets-go/2-declaring-variables-in-go/2-multiple-variables.go /^func main/,/^}/
 
-.image golang-lets-go/assets/baby.gif
+.image golang-lets-go/assets/goleft.png
 
 
 * multiple variables initializing
 
-.play golang-lets-go/2-declaring-variables-in-go/3-multiple-variables-initializing.go
+.play golang-lets-go/2-declaring-variables-in-go/3-multiple-variables-initializing.go /^func main/,/^}/
 
-.image golang-lets-go/assets/baby.gif
+.image golang-lets-go/assets/gomusic.png
 
 
 * inferring type in variables
 
-.play golang-lets-go/2-declaring-variables-in-go/4-inferring-type-in-variables.go
+.play golang-lets-go/2-declaring-variables-in-go/4-inferring-type-in-variables.go /^func main/,/^}/
 
-.image golang-lets-go/assets/baby.gif
+.image golang-lets-go/assets/gotwo.jpg
 
 
 * shorthand variable declaration
 
-.play golang-lets-go/2-declaring-variables-in-go/5-shorthand-variable-declaration.go
+.play golang-lets-go/2-declaring-variables-in-go/5-shorthand-variable-declaration.go /^func main/,/^}/
 
-.image golang-lets-go/assets/baby.gif
+.image golang-lets-go/assets/fancygopher.jpg
 
 
 * shorthand multiple variables
 
-.play golang-lets-go/2-declaring-variables-in-go/6-shorthand-multiple-variables.go
+.play golang-lets-go/2-declaring-variables-in-go/6-shorthand-multiple-variables.go /^func main/,/^}/
 
-.image golang-lets-go/assets/baby.gif
+.image golang-lets-go/assets/revive.png
 
 
 * assigning different type
 
-.play golang-lets-go/2-declaring-variables-in-go/7-assigning-different-type.go
+.play golang-lets-go/2-declaring-variables-in-go/7-assigning-different-type.go /^func main/,/^}/
 
-.image golang-lets-go/assets/baby.gif
+.image golang-lets-go/assets/gopher-no.png
 
 
 * casting types in go
 
-.play golang-lets-go/2-declaring-variables-in-go/8-casting-types-in-go.go
+.play golang-lets-go/2-declaring-variables-in-go/8-casting-types-in-go.go /^func main/,/^}/
 
-.image golang-lets-go/assets/baby.gif
-
-
-
-
-
-
-
-
-* go hello
-
-.play golang-lets-go/1-golang-characteristics-and-Go-Syntax/1-go-hello.go
-
-	go run hello.go
-
-.image golang-lets-go/assets/baby.gif
-
-
-* calling functions
-
-.play golang-lets-go/1-golang-characteristics-and-Go-Syntax/2-calling-functions.go
-
-.image golang-lets-go/assets/golang-prints.jpg
-
-
-* hello math
-
-.play golang-lets-go/1-golang-characteristics-and-Go-Syntax/3-hello-math.go
-
-.image golang-lets-go/assets/Gomat.png
-
-
-* printing emoji in go
-
-.play golang-lets-go/1-golang-characteristics-and-Go-Syntax/4-printing-emoji-in-go.go
-
-.image golang-lets-go/assets/emoji.jpeg
-
-
-* type of values
-
-.play golang-lets-go/1-golang-characteristics-and-Go-Syntax/5-type-of-values.go
-
-.image golang-lets-go/assets/goo.png
-
-
-* types in go
-
-.play golang-lets-go/1-golang-characteristics-and-Go-Syntax/6-types-in-go.go
-
-.image golang-lets-go/assets/go-programming.png
+.image golang-lets-go/assets/gopol.png
 
 
 * Try it!
