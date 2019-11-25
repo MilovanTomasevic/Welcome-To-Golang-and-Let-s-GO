@@ -22,12 +22,14 @@
 
 ## Acknowledgments
 
-- [[https://golang.org/doc/][Go Documentation]]
-- [[https://tour.golang.org/][A Tour of Go]]
-- [[https://golang.org/doc/code.html][How to Write Go Code]]
-- [[https://github.com/golang/go/wiki][The Go Wiki]]
-- [[https://golang.org/doc/effective_go.html][Effective Go]]
-- [[http://igordejanovic.net/][Igor Dejanović, PhD]]
-- [[https://github.com/hacking-code][hacking-code]]
+- [Go Documentation](https://golang.org/doc/)
+- [A Tour of Go](https://tour.golang.org/)
+- [How to Write Go Code](https://golang.org/doc/code.html)
+- [The Go Wiki](https://github.com/golang/go/wiki)
+- [[Effective Go]](https://golang.org/doc/effective_go.html)
+- [Igor Dejanović, PhD](http://igordejanovic.net/)
+- [hacking-code](https://github.com/hacking-code)
 - ...
+
+
 
