@@ -1,0 +1,80 @@
+Welcome To Golang and Let's GO
+GO Tutorial - Flow control in Go
+01:12 1 Dec 2019
+
+[[https://www.milovantomasevic.com][Milovan Tomašević]]
+[[https://www.milovantomasevic.com/courses/#table-of-contents][Go Tutorial]]
+
+
+* Let's Go!
+
+- for loop
+- variable scope
+- variable outside loop
+- infinitive loop break
+- infinitive loop condition
+- continue for loop
+
+
+.image golang-lets-go/assets/go_jumping.gif
+
+
+
+* for loop
+
+.play golang-lets-go/5-flow-control-in-go/1-for-loop.go 
+
+.image golang-lets-go/assets/gomas.png
+
+
+* variable scope
+
+.play golang-lets-go/5-flow-control-in-go/2-variable-scope.go
+
+.image golang-lets-go/assets/gosmile.png
+
+
+* variable outside loop
+
+.play golang-lets-go/5-flow-control-in-go/3-variable-outside-loop.go
+
+.image golang-lets-go/assets/gocool.jpg
+
+
+* infinitive loop break
+
+.play golang-lets-go/5-flow-control-in-go/4-infinitive-loop-break.go
+
+.image golang-lets-go/assets/gomic.png
+
+
+* infinitive loop condition
+
+.play golang-lets-go/5-flow-control-in-go/5-infinitive-loop-condition.go
+
+.image golang-lets-go/assets/gorac.jpg
+
+
+* continue for loop
+
+.play golang-lets-go/5-flow-control-in-go/6-continue-for-loop.go
+
+.image golang-lets-go/assets/gocon.png
+
+
+* Try it!
+
+References, articles, tutorials, links, and more:
+
+- [[https://golang.org/doc/][Go Documentation]]
+- [[https://tour.golang.org/][A Tour of Go]]
+- [[https://golang.org/doc/code.html][How to Write Go Code]]
+- [[https://github.com/golang/go/wiki][The Go Wiki]]
+- [[https://golang.org/doc/effective_go.html][Effective Go]]
+- ...
+
+.image golang-lets-go/assets/work.gif
+
+* Thanks! Q&A?
+
+.image golang-lets-go/assets/mascot.gif
