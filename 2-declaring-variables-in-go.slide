@@ -1,0 +1,147 @@
+Welcome To Golang and Let's GO
+GO Tutorial - Declaring Variables in Go
+01:12 1 Dec 2019
+
+[[https://www.milovantomasevic.com][Milovan Tomašević]]
+[[https://www.milovantomasevic.com/courses/#table-of-contents][Go Tutorial]]
+
+
+* Let's Go!
+
+- type variable
+- multiple variables
+- multiple variables initializing
+- inferring type in variables
+- shorthand variable declaration
+- shorthand multiple variables
+- assigning different type
+- casting types in go
+
+.image golang-lets-go/assets/go_jumping.gif
+
+
+
+* type variable
+
+.play golang-lets-go/2-declaring-variables-in-go/1-type-variable.go
+
+	go run program.go
+
+.image golang-lets-go/assets/baby.gif
+
+
+* multiple variables
+
+.play golang-lets-go/2-declaring-variables-in-go/2-multiple-variables.go
+
+.image golang-lets-go/assets/baby.gif
+
+
+* multiple variables initializing
+
+.play golang-lets-go/2-declaring-variables-in-go/3-multiple-variables-initializing.go
+
+.image golang-lets-go/assets/baby.gif
+
+
+* inferring type in variables
+
+.play golang-lets-go/2-declaring-variables-in-go/4-inferring-type-in-variables.go
+
+.image golang-lets-go/assets/baby.gif
+
+
+* shorthand variable declaration
+
+.play golang-lets-go/2-declaring-variables-in-go/5-shorthand-variable-declaration.go
+
+.image golang-lets-go/assets/baby.gif
+
+
+* shorthand multiple variables
+
+.play golang-lets-go/2-declaring-variables-in-go/6-shorthand-multiple-variables.go
+
+.image golang-lets-go/assets/baby.gif
+
+
+* assigning different type
+
+.play golang-lets-go/2-declaring-variables-in-go/7-assigning-different-type.go
+
+.image golang-lets-go/assets/baby.gif
+
+
+* casting types in go
+
+.play golang-lets-go/2-declaring-variables-in-go/8-casting-types-in-go.go
+
+.image golang-lets-go/assets/baby.gif
+
+
+
+
+
+
+
+
+* go hello
+
+.play golang-lets-go/1-golang-characteristics-and-Go-Syntax/1-go-hello.go
+
+	go run hello.go
+
+.image golang-lets-go/assets/baby.gif
+
+
+* calling functions
+
+.play golang-lets-go/1-golang-characteristics-and-Go-Syntax/2-calling-functions.go
+
+.image golang-lets-go/assets/golang-prints.jpg
+
+
+* hello math
+
+.play golang-lets-go/1-golang-characteristics-and-Go-Syntax/3-hello-math.go
+
+.image golang-lets-go/assets/Gomat.png
+
+
+* printing emoji in go
+
+.play golang-lets-go/1-golang-characteristics-and-Go-Syntax/4-printing-emoji-in-go.go
+
+.image golang-lets-go/assets/emoji.jpeg
+
+
+* type of values
+
+.play golang-lets-go/1-golang-characteristics-and-Go-Syntax/5-type-of-values.go
+
+.image golang-lets-go/assets/goo.png
+
+
+* types in go
+
+.play golang-lets-go/1-golang-characteristics-and-Go-Syntax/6-types-in-go.go
+
+.image golang-lets-go/assets/go-programming.png
+
+
+* Try it!
+
+References, articles, tutorials, links, and more:
+
+- [[https://golang.org/doc/][Go Documentation]]
+- [[https://tour.golang.org/][A Tour of Go]]
+- [[https://golang.org/doc/code.html][How to Write Go Code]]
+- [[https://github.com/golang/go/wiki][The Go Wiki]]
+- [[https://golang.org/doc/effective_go.html][Effective Go]]
+- ...
+
+.image golang-lets-go/assets/work.gif
+
+* Thanks! Q&A?
+
+.image golang-lets-go/assets/mascot.gif
