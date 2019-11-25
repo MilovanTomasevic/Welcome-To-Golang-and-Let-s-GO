@@ -62,6 +62,19 @@ GO Tutorial - Golang characteristics and Go Syntax
 .image golang-lets-go/assets/go-programming.png
 
 
+* Try it!
+
+References, articles, tutorials, links, and more:
+
+- [[https://golang.org/doc/][Go Documentation]]
+- [[https://tour.golang.org/][A Tour of Go]]
+- [[https://golang.org/doc/code.html][How to Write Go Code]]
+- [[https://github.com/golang/go/wiki][The Go Wiki]]
+- [[https://golang.org/doc/effective_go.html][Effective Go]]
+- ...
+
+.image golang-lets-go/assets/work.gif
+
 * Thanks! Q&A?
 
 .image golang-lets-go/assets/mascot.gif
