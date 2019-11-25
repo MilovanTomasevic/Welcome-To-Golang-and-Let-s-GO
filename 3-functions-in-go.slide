@@ -1,0 +1,79 @@
+Welcome To Golang and Let's GO
+GO Tutorial - Functions in Go
+01:12 1 Dec 2019
+
+[[https://www.milovantomasevic.com][Milovan Tomašević]]
+[[https://www.milovantomasevic.com/courses/#table-of-contents][Go Tutorial]]
+
+
+* Let's Go!
+
+- declaring functions
+- functions with arguments
+- returning values functions
+- implicit return value
+- returning multiple values
+- variadic functions
+
+.image golang-lets-go/assets/go_jumping.gif
+
+
+
+* declaring functions
+
+.play golang-lets-go/3-functions-in-go/1-declaring-functions.go 
+
+.image golang-lets-go/assets/Golang.png
+
+
+* functions with arguments
+
+.play golang-lets-go/3-functions-in-go/2-functions-with-arguments.go 
+
+.image golang-lets-go/assets/gogo.png
+
+
+* returning values functions
+
+.play golang-lets-go/3-functions-in-go/3-returning-values-functions.go 
+
+.image golang-lets-go/assets/go-performance.png
+
+
+* implicit return value
+
+.play golang-lets-go/3-functions-in-go/4-implicit-return-value.go 
+
+.image golang-lets-go/assets/ggo.jpg
+
+
+* returning multiple values
+
+.play golang-lets-go/3-functions-in-go/5-returning-multiple-values.go 
+
+.image golang-lets-go/assets/golang-logo.png
+
+
+* variadic functions
+
+.play golang-lets-go/3-functions-in-go/6-variadic-functions.go 
+
+.image golang-lets-go/assets/gozv.png
+
+
+* Try it!
+
+References, articles, tutorials, links, and more:
+
+- [[https://golang.org/doc/][Go Documentation]]
+- [[https://tour.golang.org/][A Tour of Go]]
+- [[https://golang.org/doc/code.html][How to Write Go Code]]
+- [[https://github.com/golang/go/wiki][The Go Wiki]]
+- [[https://golang.org/doc/effective_go.html][Effective Go]]
+- ...
+
+.image golang-lets-go/assets/work.gif
+
+* Thanks! Q&A?
+
+.image golang-lets-go/assets/mascot.gif
