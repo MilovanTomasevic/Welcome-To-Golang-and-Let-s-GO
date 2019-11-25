@@ -1,0 +1,55 @@
+Welcome To Golang and Let's GO
+GO Tutorial - Error Handling in Go
+01:12 1 Dec 2019
+
+[[https://www.milovantomasevic.com][Milovan Tomašević]]
+[[https://www.milovantomasevic.com/courses/#table-of-contents][Go Tutorial]]
+
+
+* Let's Go!
+
+- square number
+- square error handling
+- ignoring error
+
+.image golang-lets-go/assets/go_jumping.gif
+
+
+
+* square number
+
+.play golang-lets-go/4-error-handling-in-go/1-square-number.go
+
+.image golang-lets-go/assets/goking.png
+
+
+* square error handling
+
+.play golang-lets-go/4-error-handling-in-go/2-square-error-handling.go
+
+
+* ignoring error
+
+.play golang-lets-go/4-error-handling-in-go/3-ignoring-error.go
+
+.image golang-lets-go/assets/go-mig.jpg
+
+
+
+
+* Try it!
+
+References, articles, tutorials, links, and more:
+
+- [[https://golang.org/doc/][Go Documentation]]
+- [[https://tour.golang.org/][A Tour of Go]]
+- [[https://golang.org/doc/code.html][How to Write Go Code]]
+- [[https://github.com/golang/go/wiki][The Go Wiki]]
+- [[https://golang.org/doc/effective_go.html][Effective Go]]
+- ...
+
+.image golang-lets-go/assets/work.gif
+
+* Thanks! Q&A?
+
+.image golang-lets-go/assets/mascot.gif
