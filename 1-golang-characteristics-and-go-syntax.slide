@@ -24,7 +24,7 @@ GO Tutorial - Golang characteristics and Go Syntax
 
 	go run hello.go
 
-.image golang-lets-go/assets/baby.gif
+.image golang-lets-go/assets/helloWorld.jpg
 
 
 * calling functions
