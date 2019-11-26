@@ -1,0 +1,84 @@
+Welcome To Golang and Let's GO
+GO Tutorial - Custom Types in Go
+01:12 1 Dec 2019
+
+[[https://www.milovantomasevic.com][Milovan Tomašević]]
+[[https://www.milovantomasevic.com/courses/#table-of-contents][Go Tutorial]]
+
+
+* Let's Go!
+
+- language as string
+- custom type
+- more custom types
+- custom type string operation
+- custom type functions
+- comparison custom type
+- comparison different custom types
+
+.image golang-lets-go/assets/go_jumping.gif
+
+
+
+* language as string
+
+.play golang-lets-go/11-custom-types-in-go/1-language-as-string.go
+
+.image golang-lets-go/assets/goninja.png
+
+
+* custom type
+
+.play golang-lets-go/11-custom-types-in-go/2-custom-type.go
+
+.image golang-lets-go/assets/gopus.png
+
+
+* more custom types
+
+.play golang-lets-go/11-custom-types-in-go/3-more-custom-types.go
+
+.image golang-lets-go/assets/goter.png
+
+
+* custom type string operation
+
+.play golang-lets-go/11-custom-types-in-go/4-custom-type-string-operation.go
+
+.image golang-lets-go/assets/gozemba.png
+
+
+* custom type functions
+
+.play golang-lets-go/11-custom-types-in-go/5-custom-type-functions.go
+
+.image golang-lets-go/assets/gosat.jpg
+
+
+* comparison custom type
+
+.play golang-lets-go/11-custom-types-in-go/6-comparison-custom-type.go
+
+* comparison different custom types
+
+.play golang-lets-go/11-custom-types-in-go/7-comparison-different-custom-types.go
+
+.image golang-lets-go/assets/goerror.jpg
+
+
+* Try it!
+
+References, articles, tutorials, links, and more:
+
+- [[https://golang.org/doc/][Go Documentation]]
+- [[https://tour.golang.org/][A Tour of Go]]
+- [[https://golang.org/doc/code.html][How to Write Go Code]]
+- [[https://github.com/golang/go/wiki][The Go Wiki]]
+- [[https://golang.org/doc/effective_go.html][Effective Go]]
+- ...
+
+.image golang-lets-go/assets/work.gif
+
+* Thanks! Q&A?
+
+.image golang-lets-go/assets/mascot.gif

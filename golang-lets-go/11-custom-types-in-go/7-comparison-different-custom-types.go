@@ -9,7 +9,7 @@ func main() {
   minutes := Minute(70)
   hour := Hour(10)
 
-  if minutes > hour {
+  if minutes < hour {
     fmt.Println("This will never be executed")
   }
 
