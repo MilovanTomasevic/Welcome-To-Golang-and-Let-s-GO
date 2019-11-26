@@ -1,0 +1,73 @@
+Welcome To Golang and Let's GO
+GO Tutorial - If...else Statement in Go
+01:12 1 Dec 2019
+
+[[https://www.milovantomasevic.com][Milovan Tomašević]]
+[[https://www.milovantomasevic.com/courses/#table-of-contents][Go Tutorial]]
+
+
+* Let's Go!
+
+- if statement
+- and r if statement
+- if else statement
+- else if statement
+- else default message
+
+.image golang-lets-go/assets/go_jumping.gif
+
+
+
+* if statement
+
+.play golang-lets-go/6-if-else-statement-in-go/1-if-statement.go /^func main/,/^}/
+
+.image golang-lets-go/assets/gobegin.jpg
+
+
+* and r if statement
+
+.play golang-lets-go/6-if-else-statement-in-go/2-and-or-if-statement.go /^func main/,/^}/
+
+.image golang-lets-go/assets/gopil.jpg
+
+
+* if else statement
+
+.play golang-lets-go/6-if-else-statement-in-go/3-if-else-statement.go /^func main/,/^}/
+
+.image golang-lets-go/assets/goair.jpg
+
+
+* else if statement
+
+.play golang-lets-go/6-if-else-statement-in-go/4-else-if-statement.go /^func main/,/^}/
+
+.image golang-lets-go/assets/golearn.png
+
+
+* else default message
+
+.play golang-lets-go/6-if-else-statement-in-go/5-else-default-message.go /^func main/,/^}/
+
+.image golang-lets-go/assets/gomore.png
+
+
+
+
+* Try it!
+
+References, articles, tutorials, links, and more:
+
+- [[https://golang.org/doc/][Go Documentation]]
+- [[https://tour.golang.org/][A Tour of Go]]
+- [[https://golang.org/doc/code.html][How to Write Go Code]]
+- [[https://github.com/golang/go/wiki][The Go Wiki]]
+- [[https://golang.org/doc/effective_go.html][Effective Go]]
+- ...
+
+.image golang-lets-go/assets/work.gif
+
+* Thanks! Q&A?
+
+.image golang-lets-go/assets/mascot.gif
