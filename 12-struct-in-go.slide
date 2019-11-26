@@ -1,0 +1,69 @@
+Welcome To Golang and Let's GO
+GO Tutorial - Struct in Go
+01:12 1 Dec 2019
+
+[[https://www.milovantomasevic.com][Milovan Tomašević]]
+[[https://www.milovantomasevic.com/courses/#table-of-contents][Go Tutorial]]
+
+
+* Let's Go!
+
+- struct
+- struct print field
+- struct directly
+- struct directly values
+- struct composition
+
+.image golang-lets-go/assets/go_jumping.gif
+
+
+
+* struct
+
+.play golang-lets-go/12-struct-in-go/1-struct.go
+
+.image golang-lets-go/assets/gospeed.jpg 
+
+
+* struct print field
+
+.play golang-lets-go/12-struct-in-go/2-struct-print-field.go
+
+.image golang-lets-go/assets/gopherflag.png
+
+* struct directly
+
+.play golang-lets-go/12-struct-in-go/3-struct-directly.go
+
+.image golang-lets-go/assets/govoce.jpg
+
+
+* struct directly values
+
+.play golang-lets-go/12-struct-in-go/4-struct-directly-values.go
+
+.image golang-lets-go/assets/gocomp.jpg 
+
+
+* struct composition
+
+.play golang-lets-go/12-struct-in-go/5-struct-composition.go
+.image golang-lets-go/assets/gobrk.png
+
+
+* Try it!
+
+References, articles, tutorials, links, and more:
+
+- [[https://golang.org/doc/][Go Documentation]]
+- [[https://tour.golang.org/][A Tour of Go]]
+- [[https://golang.org/doc/code.html][How to Write Go Code]]
+- [[https://github.com/golang/go/wiki][The Go Wiki]]
+- [[https://golang.org/doc/effective_go.html][Effective Go]]
+- ...
+
+.image golang-lets-go/assets/work.gif
+
+* Thanks! Q&A?
+
+.image golang-lets-go/assets/mascot.gif
