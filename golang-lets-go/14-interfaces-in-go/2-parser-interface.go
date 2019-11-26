@@ -43,19 +43,6 @@ func (c CsvParser) FormatDate() string {
   return fmt.Sprintf("Formatting date for CSV: %s", c.CreatedAt)
 }
 
-type AvroParser struct {
-  Content string
-  CreatedAt string
-}
-
-func (a AvroParser) Parse() string {
-  return fmt.Sprintf("Parsing the content in Avro: %s", a.Content)
-}
-
-func (a AvroParser) FormatDate() string {
-  return fmt.Sprintf("Formatting date for Avro: %s", a.CreatedAt)
-}
-
 type Parser interface {
   Parse() string
   FormatDate() string
@@ -77,8 +64,4 @@ func main() {
   csvParser := CsvParser{Content: "My Content; Another Content", CreatedAt: "2018-01-25"}
   csvPrinter := Printer(csvParser)
   fmt.Println(csvPrinter)
-
-  avroParser := AvroParser{Content: "My avro content", CreatedAt: "2018-01-25"}
-  avroParser := Printer(avroParser)
-  fmt.Println(avroParser)
 }

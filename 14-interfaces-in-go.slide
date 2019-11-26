@@ -1,0 +1,141 @@
+Welcome To Golang and Let's GO
+GO Tutorial - Interfaces in Go
+01:12 1 Dec 2019
+
+[[https://www.milovantomasevic.com][Milovan Tomašević]]
+[[https://www.milovantomasevic.com/courses/#table-of-contents][Go Tutorial]]
+
+
+* Let's Go!
+
+- parser xml json csv
+- parser interface
+
+.image golang-lets-go/assets/go_jumping.gif
+
+
+* parser xml json csv  (1/3)
+
+    type XmlParser struct {
+    Content string
+    CreatedAt string
+    }
+
+    func (x XmlParser) Parse() string {
+    return fmt.Sprintf("Parsing the content in XML: %s", x.Content)
+    }
+
+    func (x XmlParser) FormatDate() string {
+    return fmt.Sprintf("Formatting date for XML: %s", x.CreatedAt)
+    }
+
+    type JsonParser struct {
+    Content string
+    CreatedAt string
+    }
+
+    func (j JsonParser) Parse() string {
+    return fmt.Sprintf("Parsing the content in JSON: %s", j.Content)
+    }
+
+
+* parser xml json csv  (2/3)
+
+    func (c CsvParser) FormatDate() string {
+    return fmt.Sprintf("Formatting date for CSV: %s", c.CreatedAt)
+    }
+
+    func XmlPrinter(xml XmlParser) string {
+    return xml.Parse() + " - Date - " + xml.FormatDate()
+    }
+
+    func JsonPrinter(json JsonParser) string {
+    return json.Parse() + " - Date - " + json.FormatDate()
+    }
+
+    func CsvPrinter(csv CsvParser) string {
+    return csv.Parse() + " - Date - " + csv.FormatDate()
+    }
+
+.image golang-lets-go/assets/gosed.png
+
+* parser xml json csv  (3/3)
+
+.play golang-lets-go/14-interfaces-in-go/1-parser-xml-json-csv.go /^func main/,/^}/
+
+.image golang-lets-go/assets/goplovi.png
+
+
+* parser interface (1/3)
+
+    type XmlParser struct {
+    Content string
+    CreatedAt string
+    }
+
+    func (x XmlParser) Parse() string {
+    return fmt.Sprintf("Parsing the content in XML: %s", x.Content)
+    }
+
+    func (x XmlParser) FormatDate() string {
+    return fmt.Sprintf("Formatting date for XML: %s", x.CreatedAt)
+    }
+
+    type JsonParser struct {
+    Content string
+    CreatedAt string
+    }
+
+    func (j JsonParser) Parse() string {
+    return fmt.Sprintf("Parsing the content in JSON: %s", j.Content)
+    }
+
+
+* parser interface (2/3)
+
+
+    func (j JsonParser) FormatDate() string {
+    return fmt.Sprintf("Formatting date for JSON: %s", j.CreatedAt)
+    }
+
+    type CsvParser struct {
+    Content string
+    CreatedAt string
+    }
+
+    func (c CsvParser) Parse() string {
+    return fmt.Sprintf("Parsing the content in CSV: %s", c.Content)
+    }
+    
+    type Parser interface {
+    Parse() string
+    FormatDate() string
+    }
+
+    func Printer(format Parser) string {
+    return format.Parse() + " - Date - " + format.FormatDate()
+    }
+
+* parser interface (3/3)
+
+.play golang-lets-go/14-interfaces-in-go/2-parser-interface.go  /^func main/,/^}/
+
+.image golang-lets-go/assets/goheppy.png
+
+
+* Try it!
+
+References, articles, tutorials, links, and more:
+
+- [[https://golang.org/doc/][Go Documentation]]
+- [[https://tour.golang.org/][A Tour of Go]]
+- [[https://golang.org/doc/code.html][How to Write Go Code]]
+- [[https://github.com/golang/go/wiki][The Go Wiki]]
+- [[https://golang.org/doc/effective_go.html][Effective Go]]
+- ...
+
+.image golang-lets-go/assets/work.gif
+
+* Thanks! Q&A?
+
+.image golang-lets-go/assets/mascot.gif
