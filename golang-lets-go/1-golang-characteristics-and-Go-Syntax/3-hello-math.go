@@ -6,5 +6,5 @@ import (
 )
 
 func main() {
-  fmt.Println(math.Max(9, 5))
+  fmt.Println(math.Max(14, 9))
 }

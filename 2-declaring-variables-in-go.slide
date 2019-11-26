@@ -46,7 +46,7 @@ GO Tutorial - Declaring Variables in Go
 
 .play golang-lets-go/2-declaring-variables-in-go/4-inferring-type-in-variables.go /^func main/,/^}/
 
-.image golang-lets-go/assets/gotwo.jpg
+.image golang-lets-go/assets/Gomat.png
 
 
 * shorthand variable declaration

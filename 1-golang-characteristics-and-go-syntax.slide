@@ -38,7 +38,7 @@ GO Tutorial - Golang characteristics and Go Syntax
 
 .play golang-lets-go/1-golang-characteristics-and-Go-Syntax/3-hello-math.go
 
-.image golang-lets-go/assets/Gomat.png
+.image golang-lets-go/assets/go14.png
 
 
 * printing emoji in go
