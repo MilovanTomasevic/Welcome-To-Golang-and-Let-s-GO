@@ -1,0 +1,46 @@
+Welcome To Golang and Let's GO
+GO Tutorial - Concurrency with Goroutines in Go
+01:12 1 Dec 2019
+
+[[https://www.milovantomasevic.com][Milovan Tomašević]]
+[[https://www.milovantomasevic.com/courses/#table-of-contents][Go Tutorial]]
+
+
+* Let's Go!
+
+- long function running
+- concurrency goroutine
+
+.image golang-lets-go/assets/go_jumping.gif
+
+
+* long function running
+
+.play golang-lets-go/15-concurrency-with-goroutines-in-go/1-long-function-running.go
+
+.image golang-lets-go/assets/gomoree.png
+
+
+* concurrency goroutine
+
+.play golang-lets-go/15-concurrency-with-goroutines-in-go/2-concurrency-goroutine.go
+
+.image golang-lets-go/assets/gozas.png
+
+
+* Try it!
+
+References, articles, tutorials, links, and more:
+
+- [[https://golang.org/doc/][Go Documentation]]
+- [[https://tour.golang.org/][A Tour of Go]]
+- [[https://golang.org/doc/code.html][How to Write Go Code]]
+- [[https://github.com/golang/go/wiki][The Go Wiki]]
+- [[https://golang.org/doc/effective_go.html][Effective Go]]
+- ...
+
+.image golang-lets-go/assets/work.gif
+
+* Thanks! Q&A?
+
+.image golang-lets-go/assets/mascot.gif
