@@ -1,0 +1,95 @@
+Welcome To Golang and Let's GO
+GO Tutorial - Data Structures in Go with Map
+01:12 1 Dec 2019
+
+[[https://www.milovantomasevic.com][Milovan Tomašević]]
+[[https://www.milovantomasevic.com/courses/#table-of-contents][Go Tutorial]]
+
+
+* Let's Go!
+
+- map
+- map keys
+- length of map
+- delete values map
+- iterating over map
+- iteraging over map values
+- iteraging over map keys
+- initializing map with values
+
+.image golang-lets-go/assets/go_jumping.gif
+
+
+
+* map
+
+.play golang-lets-go/10-data-structure-in-go-with-map/1-map.go /^func main/,/^}/
+
+.image golang-lets-go/assets/gobook.png
+
+
+* map keys
+
+.play golang-lets-go/10-data-structure-in-go-with-map/2-map-keys.go /^func main/,/^}/
+
+.image golang-lets-go/assets/gopere.png
+
+
+* length of map
+
+.play golang-lets-go/10-data-structure-in-go-with-map/3-length-of-map.go /^func main/,/^}/
+
+.image golang-lets-go/assets/goglava.png
+
+
+* delete values map
+
+.play golang-lets-go/10-data-structure-in-go-with-map/4-delete-values-map.go /^func main/,/^}/
+
+.image golang-lets-go/assets/gokey.png
+
+
+* iterating over map
+
+.play golang-lets-go/10-data-structure-in-go-with-map/5-iterating-over-map.go /^func main/,/^}/
+
+.image golang-lets-go/assets/gobeb.jpeg
+
+
+* iteraging over map values
+
+.play golang-lets-go/10-data-structure-in-go-with-map/6-iteraging-over-map-values.go /^func main/,/^}/
+
+.image golang-lets-go/assets/gorac.png
+
+
+* iteraging over map keys
+
+.play golang-lets-go/10-data-structure-in-go-with-map/7-iteraging-over-map-keys.go /^func main/,/^}/
+
+.image golang-lets-go/assets/goswm.png
+
+
+* initializing map with values
+
+.play golang-lets-go/10-data-structure-in-go-with-map/8-initializing-map-with-values.go /^func main/,/^}/
+
+.image golang-lets-go/assets/golearnb.png
+
+
+* Try it!
+
+References, articles, tutorials, links, and more:
+
+- [[https://golang.org/doc/][Go Documentation]]
+- [[https://tour.golang.org/][A Tour of Go]]
+- [[https://golang.org/doc/code.html][How to Write Go Code]]
+- [[https://github.com/golang/go/wiki][The Go Wiki]]
+- [[https://golang.org/doc/effective_go.html][Effective Go]]
+- ...
+
+.image golang-lets-go/assets/work.gif
+
+* Thanks! Q&A?
+
+.image golang-lets-go/assets/mascot.gif
