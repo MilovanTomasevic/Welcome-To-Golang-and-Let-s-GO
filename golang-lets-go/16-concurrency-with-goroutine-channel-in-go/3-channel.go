@@ -4,7 +4,7 @@ import (
   "fmt"
   "time"
 )
-
+// START OMIT
 var webservice = make(chan int)
 
 func callWebService() {
@@ -24,9 +24,9 @@ func main() {
   callWebService()
 
   showToUser()
-
   result := <-webservice
 
   fmt.Println("Execution finished with the result:", result)
   time.Sleep(8 * time.Second)
 }
+// END OMIT

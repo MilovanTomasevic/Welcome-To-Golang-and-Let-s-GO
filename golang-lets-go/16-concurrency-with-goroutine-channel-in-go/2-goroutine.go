@@ -4,7 +4,7 @@ import (
   "fmt"
   "time"
 )
-
+// START OMIT
 func callWebService() {
   go func() {
     fmt.Println("Calling webservice")
@@ -25,3 +25,4 @@ func main() {
   fmt.Println("Execution finished with the result:")
   time.Sleep(8 * time.Second)
 }
+// END OMIT

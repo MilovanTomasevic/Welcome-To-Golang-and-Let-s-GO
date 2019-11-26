@@ -1,0 +1,53 @@
+Welcome To Golang and Let's GO
+GO Tutorial - Concurrency with Goroutines and Channel in Go
+01:12 1 Dec 2019
+
+[[https://www.milovantomasevic.com][Milovan Tomašević]]
+[[https://www.milovantomasevic.com/courses/#table-of-contents][Go Tutorial]]
+
+
+* Let's Go!
+
+- calculation
+- goroutine
+- channel
+
+.image golang-lets-go/assets/go_jumping.gif
+
+
+* calculation
+
+.play golang-lets-go/16-concurrency-with-goroutine-channel-in-go/1-calculation.go /START OMIT/,/END OMIT/
+
+.image golang-lets-go/assets/gotuca.png
+
+
+* goroutine
+
+.play golang-lets-go/16-concurrency-with-goroutine-channel-in-go/2-goroutine.go /START OMIT/,/END OMIT/
+
+.image golang-lets-go/assets/goceka.png
+
+
+* channel
+
+.play golang-lets-go/16-concurrency-with-goroutine-channel-in-go/3-channel.go /START OMIT/,/END OMIT/
+
+
+
+* Try it!
+
+References, articles, tutorials, links, and more:
+
+- [[https://golang.org/doc/][Go Documentation]]
+- [[https://tour.golang.org/][A Tour of Go]]
+- [[https://golang.org/doc/code.html][How to Write Go Code]]
+- [[https://github.com/golang/go/wiki][The Go Wiki]]
+- [[https://golang.org/doc/effective_go.html][Effective Go]]
+- ...
+
+.image golang-lets-go/assets/work.gif
+
+* Thanks! Q&A?
+
+.image golang-lets-go/assets/mascot.gif
