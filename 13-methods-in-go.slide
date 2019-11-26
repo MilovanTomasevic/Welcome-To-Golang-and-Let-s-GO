@@ -1,0 +1,46 @@
+Welcome To Golang and Let's GO
+GO Tutorial - Methods in Go
+01:12 1 Dec 2019
+
+[[https://www.milovantomasevic.com][Milovan Tomašević]]
+[[https://www.milovantomasevic.com/courses/#table-of-contents][Go Tutorial]]
+
+
+* Let's Go!
+
+- method
+- method custom type
+
+.image golang-lets-go/assets/go_jumping.gif
+
+
+* method
+
+.play golang-lets-go/13-methods-in-go/1-method.go
+
+.image golang-lets-go/assets/gomag.jpg
+
+
+* method custom type
+
+.play golang-lets-go/13-methods-in-go/2-method-custom-type.go
+
+.image golang-lets-go/assets/gopenj.png
+
+
+* Try it!
+
+References, articles, tutorials, links, and more:
+
+- [[https://golang.org/doc/][Go Documentation]]
+- [[https://tour.golang.org/][A Tour of Go]]
+- [[https://golang.org/doc/code.html][How to Write Go Code]]
+- [[https://github.com/golang/go/wiki][The Go Wiki]]
+- [[https://golang.org/doc/effective_go.html][Effective Go]]
+- ...
+
+.image golang-lets-go/assets/work.gif
+
+* Thanks! Q&A?
+
+.image golang-lets-go/assets/mascot.gif
