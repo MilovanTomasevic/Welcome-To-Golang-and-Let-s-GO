@@ -1,0 +1,64 @@
+Welcome To Golang and Let's GO
+GO Tutorial - Switch Statement in Go
+01:12 1 Dec 2019
+
+[[https://www.milovantomasevic.com][Milovan Tomašević]]
+[[https://www.milovantomasevic.com/courses/#table-of-contents][Go Tutorial]]
+
+
+* Let's Go!
+
+- basic switch statement
+- switch break
+- switch multiple expressions
+- switch conditional range
+
+
+.image golang-lets-go/assets/go_jumping.gif
+
+
+
+* basic switch statement
+
+.play golang-lets-go/7-switch-statement-in-go/1-basic-switch-statement.go /^func main/,/^}/
+
+.image golang-lets-go/assets/gonao.png
+
+
+* switch break
+
+.play golang-lets-go/7-switch-statement-in-go/2-switch-break.go /^func main/,/^}/
+
+.image golang-lets-go/assets/gowint.jpg
+
+
+* switch multiple expressions
+
+.play golang-lets-go/7-switch-statement-in-go/3-switch-multiple-expressions.go /^func main/,/^}/
+
+.image golang-lets-go/assets/gobet.png
+
+
+* switch conditional range
+
+.play golang-lets-go/7-switch-statement-in-go/4-switch-conditional-range.go /^func main/,/^}/
+
+.image golang-lets-go/assets/gomrgd.png
+
+
+* Try it!
+
+References, articles, tutorials, links, and more:
+
+- [[https://golang.org/doc/][Go Documentation]]
+- [[https://tour.golang.org/][A Tour of Go]]
+- [[https://golang.org/doc/code.html][How to Write Go Code]]
+- [[https://github.com/golang/go/wiki][The Go Wiki]]
+- [[https://golang.org/doc/effective_go.html][Effective Go]]
+- ...
+
+.image golang-lets-go/assets/work.gif
+
+* Thanks! Q&A?
+
+.image golang-lets-go/assets/mascot.gif
