@@ -1,0 +1,87 @@
+Welcome To Golang and Let's GO
+GO Tutorial - Data Structures in Go with Slices
+01:12 1 Dec 2019
+
+[[https://www.milovantomasevic.com][Milovan Tomašević]]
+[[https://www.milovantomasevic.com/courses/#table-of-contents][Go Tutorial]]
+
+
+* Let's Go!
+
+- slice
+- slice size
+- item in slice dinamically
+- append item in slice one line
+- copying slices
+- slice items
+- declaring and initializing slice
+
+.image golang-lets-go/assets/go_jumping.gif
+
+
+
+* slice
+
+.play golang-lets-go/9-data-structure-in-go-with-slices/1-slice.go /^func main/,/^}/
+
+.image golang-lets-go/assets/golangv.png
+
+
+* slice size
+
+.play golang-lets-go/9-data-structure-in-go-with-slices/2-slice-size.go /^func main/,/^}/
+
+.image golang-lets-go/assets/gobaby.png
+
+
+* item in slice dinamically
+
+.play golang-lets-go/9-data-structure-in-go-with-slices/3-item-in-slice-dinamically.go /^func main/,/^}/
+
+.image golang-lets-go/assets/gotwo.png
+
+
+* append item in slice one line
+
+.play golang-lets-go/9-data-structure-in-go-with-slices/4-append-item-in-slice-one-line.go /^func main/,/^}/
+
+.image golang-lets-go/assets/gozub.png
+
+
+* copying slices
+
+.play golang-lets-go/9-data-structure-in-go-with-slices/5-copying-slices.go /^func main/,/^}/
+
+.image golang-lets-go/assets/gopos.png
+
+
+* slice items
+
+.play golang-lets-go/9-data-structure-in-go-with-slices/6-slice-items.go /^func main/,/^}/
+
+.image golang-lets-go/assets/gomah.png
+
+
+* declaring and initializing slice
+
+.play golang-lets-go/9-data-structure-in-go-with-slices/7-declaring-and-initializing-slice.go /^func main/,/^}/
+
+.image golang-lets-go/assets/gobild.gif
+
+
+* Try it!
+
+References, articles, tutorials, links, and more:
+
+- [[https://golang.org/doc/][Go Documentation]]
+- [[https://tour.golang.org/][A Tour of Go]]
+- [[https://golang.org/doc/code.html][How to Write Go Code]]
+- [[https://github.com/golang/go/wiki][The Go Wiki]]
+- [[https://golang.org/doc/effective_go.html][Effective Go]]
+- ...
+
+.image golang-lets-go/assets/work.gif
+
+* Thanks! Q&A?
+
+.image golang-lets-go/assets/mascot.gif

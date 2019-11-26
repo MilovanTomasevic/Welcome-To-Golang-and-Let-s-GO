@@ -4,4 +4,5 @@ import "fmt"
 
 func main() {
   languages := []string{"Ruby", "Java", "Pony", "Go", "Erlang"}
+  fmt.Println(languages)
 }
